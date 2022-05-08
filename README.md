@@ -16,3 +16,6 @@ listen = 0.0.0.0:4567
 psk = yourpassword
 obfs = http|tls
 ```
+# 客户端建议用clash 
+传送门[clash][https://github.com/Dreamacro/clash]
+传送门[openclash][https://github.com/vernesong/OpenClash]
