@@ -2,7 +2,7 @@
 snell server docker 方式部署
 # 构建镜像
 ```
-docker  build .  -f  ./Dockerfile   -t snell-server:latest
+docker  build  -f  ./Dockerfile   -t snell-server:latest .
 ```
 # 启动命令
 ```
